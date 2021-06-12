@@ -47,4 +47,5 @@ class Song
     song_name = file_name[1].gsub(".mp3", "")
     
     song = self.new
+    song
 end
