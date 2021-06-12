@@ -46,5 +46,5 @@ class Song
     artist_name = file_name[0]
     song_name = file_name[1].gsub(".mp3", "")
     
-    
+    song = song.new
 end
