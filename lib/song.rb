@@ -43,5 +43,5 @@ class Song
   
   self.new_from_filename(filename)
     file_name = filename.split(" - ")
-    artist_name
+    artist_name = 
 end
